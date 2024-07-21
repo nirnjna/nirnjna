@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirnjna
 - 👀 I’m interested in s/w dev
-- 🌱 I’m currently learning cse
+- 👨‍💻 I’m a software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
